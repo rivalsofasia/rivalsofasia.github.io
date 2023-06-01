@@ -1,6 +1,37 @@
 body{
     margin: 25px;
-    background-color: rgb(24,240,240);
+    background-color: #6f42c1;
     font-family: arial, sans-serif;
     font-size: 14px;
   }
+
+h1 {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 69px;
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+  font-family: comid-sans;
+  font-size: 49px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 32px;
+  font-family: cambria;
+  margin: 20px 100px 10px 100px;;
+}
+
+
+img {
+  max-width: 80%;
+  text-align:center;
+  display: block;
+  margin: 0 auto;
+}
