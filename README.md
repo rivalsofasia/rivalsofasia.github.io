@@ -1,2 +1,2 @@
-# Title
-Testing github for pages
+# Welcome to the Rivals of Asia site repository.
+This was site was made by mauripops but my html knowledge is quite bad. If you have any suggestions to make the site prettier you are welcome to pull request and I will likely get back to you with the changes made. The most important thing is that the site loads large mp4 files, if you have any suggestions with how to fix the background and just use the clips I will send them to you to save space wehen loading the site
